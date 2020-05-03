@@ -1,0 +1,51 @@
+.header{
+	font-size: 20px;
+	margin: 123px  0px 83px;
+}
+.header span{
+	display: block;
+	line-height: 1.5;
+	padding-bottom: 15px;
+}
+.form{
+	border: 5px solid #472cc3;
+	padding: 0px 20px;
+}
+.header-form{
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900;
+	margin: 30px 42px 30px;
+}
+.form input, button{
+	margin-top: 10px;
+}
+.form button{
+	background-color: #472cc3;	
+	margin-bottom: 27px;
+}
+.feature-header{
+	font-size: 20px;
+	font-weight: 750;
+	margin-top: 150px;
+}
+.feature-box{
+	text-align: center;
+	margin-top: 86px;
+}
+.feature-box p{
+	margin-top: 10px;
+}
+.feature-btn button{
+	margin-top: 95px;
+	background-color: #472cc3;
+}
+.footer-customers{
+	font-size: 24px;
+	font-weight: 700;
+	margin: 100px 0px 75px;
+}
+.footer-people{
+	text-align: center;
+	margin: 15px 0px 15px 0px;
+}
